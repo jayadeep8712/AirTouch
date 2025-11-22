@@ -4,7 +4,7 @@
 
 Think of it as a **magic pen… without the pen!** 🪄
 
----
+<br>
 
 ## 🌟 Features
 
@@ -13,7 +13,7 @@ Think of it as a **magic pen… without the pen!** 🪄
 * **Cross-platform & Lightweight** – Works on any system with Python 3.10+ with minimal dependencies.
 * **Simple & Fun** – Interact with the app intuitively—your hand is your controller!
 
----
+<br>
 
 ## 🚀 Quick Start
 
@@ -73,7 +73,7 @@ python air_solver.py
 deactivate
 ```
 
----
+<br>
 
 ## ✍️ How to Use
 
@@ -83,7 +83,7 @@ deactivate
 
 💡 **Pro Tip:** Clear, deliberate movements improve recognition accuracy.
 
----
+<br>
 
 ## 📦 Dependencies
 
@@ -93,7 +93,7 @@ deactivate
 * [**Python-dotenv**](https://pypi.org/project/python-dotenv/) – Manage API keys securely
 * [**Pillow**](https://pypi.org/project/Pillow/) – Image processing
 
----
+<br>
 
 ## 🎨 Fun Tips
 
