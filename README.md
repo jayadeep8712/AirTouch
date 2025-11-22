@@ -4,7 +4,7 @@
 
 AirTouch is a Python-based application that lets you **draw letters or words in the air** with your hand, detects them in real-time using **Mediapipe & OpenCV**, and processes them with **Google Generative AI** to provide answers instantly.  
 
----
+
 
 ## Features 🌟
 - **Air Writing Detection** – Track your hand movements and detect drawn letters in real-time.  
@@ -12,7 +12,7 @@ AirTouch is a Python-based application that lets you **draw letters or words in 
 - **Simple Setup** – Lightweight Python app with minimal dependencies.  
 - **Cross-platform Ready** – Works on any system with Python 3.10+.
 
----
+
 
 ## Setup 🚀
 
@@ -65,7 +65,7 @@ python air_solver.py
 deactivate
 ```
 
----
+
 
 ## How to Use ✍️
 
@@ -73,7 +73,7 @@ deactivate
 2. Draw letters or words in the air slowly and clearly.
 3. Watch as the app interprets your air-writing and provides answers in real-time.
 
----
+
 
 ## Dependencies 📦
 
@@ -83,9 +83,6 @@ deactivate
 * [Python-dotenv](https://pypi.org/project/python-dotenv/) – Manage API keys
 * [Pillow](https://pypi.org/project/Pillow/) – Image processing
 
----
 
-💡 **Fun Tip:** Practice drawing slowly and clearly for better recognition. The air is your canvas! ✨ 
 
-Do you want me to do that?
-```
+💡 **Fun Tip:** Practice drawing slowly and clearly for better recognition. The air is your canvas! ✨
